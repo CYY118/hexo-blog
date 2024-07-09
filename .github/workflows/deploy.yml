@@ -18,7 +18,7 @@ env:
   # The Git Hub Warehouse To Be Deployed After Hexo Compiles
   GIT_DEPLOY_REPO: CYY118/CYY118.github.io
   # Hexo Compiles The Branch To Deploy After Compilation
-  GIT_DEPLOY_BRANCH: main
+  GIT_DEPLOY_BRANCH: master
 
 jobs:
   build:
