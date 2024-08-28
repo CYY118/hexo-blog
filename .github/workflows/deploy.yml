@@ -60,8 +60,8 @@ jobs:
 
 
       - name: Install Hexo dependencies
-        run: npm install
+        run: npm install hexo-cli -g
       - name: Generate Hexo static files
-        run: hexo g
+        run: npm install
       - name: Deploy Hexo
         run: hexo d
