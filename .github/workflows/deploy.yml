@@ -65,5 +65,5 @@ jobs:
           npm install - gulp gulp-uglify hexo hexo-deployer-git hexo-generator-archive hexo-generator-category hexo-generator-feed hexo-generator-index hexo-generator-search hexo-generator-searchdb hexo-generator-sitemap hexo-generator-tag hexo-renderer-ejs hexo-renderer-marked hexo-renderer-pug hexo-renderer-stylus hexo-server hexo-tag-cloud hexo-word-counter readable-stream uglify-es --save
 
       - name: Deploy hexo
-        uses: peaceiris/actions-gh-pages@v3
- 
+        run: |
+          npm run deploy
