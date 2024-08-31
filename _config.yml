@@ -124,8 +124,8 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: git
-    repository:  https://github.com/CYY118/hexonew.git
-    branch: main
+    repository:  git@github.com:CYY118/CYY118.github.io.git
+    branch: master
   # - type: baidu_url_submitter
   # - type: git
   #   #repo改为repo: git@域名:/var/repo/hexo.git
