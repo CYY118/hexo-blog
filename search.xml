@@ -2,6 +2,33 @@
 <search> 
   
   
+    
+    <entry>
+      <title>标题测试</title>
+      <link href="/posts/cs.html"/>
+      <url>/posts/cs.html</url>
+      
+        <content type="html"><![CDATA[<p>测试</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试演示 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> 外挂标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
