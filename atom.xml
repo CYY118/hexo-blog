@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2024-09-03T13:22:37.618Z</updated>
+  <updated>2024-09-04T05:16:46.970Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.fomal.cc/posts/cs.html"/>
     <id>https://www.fomal.cc/posts/cs.html</id>
     <published>2024-09-01T09:07:07.868Z</published>
-    <updated>2024-09-03T13:22:37.618Z</updated>
+    <updated>2024-09-04T05:16:46.970Z</updated>
     
-    <content type="html"><![CDATA[<p>测试</p><p>这是一个图床测试😊</p><p><img src="https://imgbed-2zc.pages.dev/file/636cd5cecd6c9e4811325.jpg" alt="IMG_20240902_200126.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<p>测试</p><p>这是一个图床测试😊</p><p><img src="%5B%7B" alt="[{&quot;src&quot;:&quot;/file/42c59eb778ee2b316789d.jpg&quot;}]"></p><p><img src="https://imgbed-2zc.pages.dev/file/636cd5cecd6c9e4811325.jpg" alt="IMG_20240902_200126.jpg"></p>]]></content>
     
     
     <summary type="html">描述测试</summary>
