@@ -3,11 +3,11 @@
   <title>凡南记录🍒</title>
   
   
-  <link href="https://www.fomal.cc/atom.xml" rel="self"/>
+  <link href="https://www.yanguk.top/atom.xml" rel="self"/>
   
-  <link href="https://www.fomal.cc/"/>
+  <link href="https://www.yanguk.top/"/>
   <updated>2024-10-01T05:47:54.246Z</updated>
-  <id>https://www.fomal.cc/</id>
+  <id>https://www.yanguk.top/</id>
   
   <author>
     <name>cyy🍒</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>标题测试</title>
-    <link href="https://www.fomal.cc/posts/cs.html"/>
-    <id>https://www.fomal.cc/posts/cs.html</id>
+    <link href="https://www.yanguk.top/posts/cs.html"/>
+    <id>https://www.yanguk.top/posts/cs.html</id>
     <published>2024-09-01T09:07:07.868Z</published>
     <updated>2024-10-01T05:47:54.246Z</updated>
     
@@ -30,21 +30,21 @@
     
     
     
-    <category term="Java基础" scheme="https://www.fomal.cc/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://www.yanguk.top/categories/Java%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="Markdown" scheme="https://www.fomal.cc/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://www.yanguk.top/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://www.fomal.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="外挂标签" scheme="https://www.yanguk.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
-    <category term="Cyy" scheme="https://www.fomal.cc/tags/Cyy/"/>
+    <category term="Cyy" scheme="https://www.yanguk.top/tags/Cyy/"/>
     
   </entry>
   
   <entry>
     <title>翻译心情</title>
-    <link href="https://www.fomal.cc/posts/myfeel.html"/>
-    <id>https://www.fomal.cc/posts/myfeel.html</id>
+    <link href="https://www.yanguk.top/posts/myfeel.html"/>
+    <id>https://www.yanguk.top/posts/myfeel.html</id>
     <published>2024-09-01T09:07:07.868Z</published>
     <updated>2024-10-03T07:03:37.839Z</updated>
     
@@ -55,10 +55,10 @@
     
     
     
-    <category term="生活" scheme="https://www.fomal.cc/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://www.yanguk.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="日常" scheme="https://www.fomal.cc/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://www.yanguk.top/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
