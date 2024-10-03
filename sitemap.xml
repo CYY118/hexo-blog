@@ -11,33 +11,6 @@
   </url>
   
   <url>
-    <loc>https://www.yanguk.top/site/time/index.html</loc>
-    
-    <lastmod>2024-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/social/fcircle/index.html</loc>
-    
-    <lastmod>2024-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/social/link/index.html</loc>
-    
-    <lastmod>2024-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yanguk.top/life/games/index.html</loc>
     
     <lastmod>2024-10-03</lastmod>
@@ -74,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://www.yanguk.top/personal/bb/index.html</loc>
-    
-    <lastmod>2024-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yanguk.top/personal/love/index.html</loc>
     
     <lastmod>2024-10-03</lastmod>
@@ -92,7 +56,43 @@
   </url>
   
   <url>
+    <loc>https://www.yanguk.top/personal/bb/index.html</loc>
+    
+    <lastmod>2024-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yanguk.top/site/census/index.html</loc>
+    
+    <lastmod>2024-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/site/time/index.html</loc>
+    
+    <lastmod>2024-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/social/fcircle/index.html</loc>
+    
+    <lastmod>2024-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/social/link/index.html</loc>
     
     <lastmod>2024-10-03</lastmod>
     
