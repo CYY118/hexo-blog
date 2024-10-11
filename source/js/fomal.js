@@ -2789,7 +2789,7 @@ function createtime() {
   var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒
   var unit = (dis / 149600000).toFixed(6);  // 天文单位
   // 网站诞生时间
-  var grt = new Date("08/09/2022 00:00:00");
+  var grt = new Date("08/09/2024 00:00:00");
   var days = (now - grt) / 1e3 / 60 / 60 / 24,
     dnum = Math.floor(days),
     hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,
@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/dm14.webp);
-    --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --default-bg: url(https://yyimg.yanguk.top/imgcyy/24/10/Screenshot_20241011_191757_bc2041ba0fc3586633eafe4a62a2e073.jpg);
+    --darkmode-bg:url(https://yyimg.yanguk.top/imgcyy/24/10/Screenshot_20241011_191757_bc2041ba0fc3586633eafe4a62a2e073.jpg);
+    --mobileday-bg: url(https://yyimg.yanguk.top/imgcyy/24/10/Screenshot_20241011_191757_bc2041ba0fc3586633eafe4a62a2e073.jpg);
+    --mobilenight-bg: url(https://yyimg.yanguk.top/imgcyy/24/10/Screenshot_20241011_191757_bc2041ba0fc3586633eafe4a62a2e073.jpg);
   }`;
 }
 // 切换背景主函数
