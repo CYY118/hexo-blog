@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.yanguk.top/personal/love/index.html</loc>
+    <loc>https://www.yanguk.top/site/census/index.html</loc>
     
     <lastmod>2024-10-11</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.yanguk.top/site/census/index.html</loc>
+    <loc>https://www.yanguk.top/personal/love/index.html</loc>
     
     <lastmod>2024-10-11</lastmod>
     
@@ -182,13 +182,6 @@
 
   
   <url>
-    <loc>https://www.yanguk.top/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2024-10-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yanguk.top/tags/Markdown/</loc>
     <lastmod>2024-10-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -209,17 +202,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.yanguk.top/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2024-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://www.yanguk.top/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://www.yanguk.top/categories/Java%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2024-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yanguk.top/categories/Java%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://www.yanguk.top/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
