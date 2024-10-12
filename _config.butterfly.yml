@@ -705,7 +705,9 @@ aside:
       link: https://github.com/CYY118
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://www.yanguk.top" title="此线路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">www.yanguk.top</font></a>&nbsp;|&nbsp;<a href="https://www.fomal.cn" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">fomal.cn</font></a><br>--- 备用域名 ---<br><a href="https://netlify.fomal.cc" title="此线路部署于Netlify" class="anno_content"><font color="#5ea6e5">netlify.fomal.cc</font></a><br><a href="https://cloudflare.fomal.cc" title="此线路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">cloudflare.fomal.cc</font></a><br>--- 网站安卓APP ---<br>🍧<a href="https://lskypro.acozycotage.net/Fomalhaut/Fomalhaut.apk" title="点这里可以下载网站的安卓APP" class="anno_content"><font color="#5ea6e5">点此下载</font></a>🍧</b></center>
+    content: <center><b>--- 主域名 ---<br><a href="https://www.yanguk.top" title="此线路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">www.yanguk.top</font></a><br>--- 备用域名 ---<br><a href="https://blog.yanguk.top" title="此线路部署于Vercel" class="anno_content">
+<font color="#5ea6e5">blog.yanguk.top</font>
+</a><br><br>--- LOOK ---<br>🍧<a href="https://www.yanguk.top" title="还是本站哦 class="anno_content"><font color="#5ea6e5">点击试试</font></a>🍧</b></center>
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
