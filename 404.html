@@ -51,7 +51,7 @@
   isHome: false,
   isHighlightShrink: false,
   isToc: false,
-  postUpdate: '2024-10-13 11:28:31'
+  postUpdate: '2024-10-14 05:31:00'
 }</script><noscript><style type="text/css">
   #nav {
     opacity: 1
@@ -173,39 +173,6 @@ document.getElementById('loading-box').addEventListener('click',()=> {preloader.
     return content
   }
 
-  const getComment = () => {
-    const runTwikoo = () => {
-      twikoo.getRecentComments({
-        envId: 'https://cyy-twikoo.yanguk.top/',
-        region: '',
-        pageSize: 5,
-        includeReply: true
-      }).then(function (res) {
-        const twikooArray = res.map(e => {
-          return {
-            'content': changeContent(e.comment),
-            'avatar': e.avatar,
-            'nick': e.nick,
-            'url': e.url + '#' + e.id,
-            'date': new Date(e.created).toISOString()
-          }
-        })
-
-        saveToLocal.set('twikoo-newest-comments', JSON.stringify(twikooArray), 10/(60*24))
-        generateHtml(twikooArray)
-      }).catch(function (err) {
-        const $dom = document.querySelector('#card-newest-comments .aside-list')
-        $dom.innerHTML= "无法获取评论，请确认相关配置是否正确"
-      })
-    }
-
-    if (typeof twikoo === 'object') {
-      runTwikoo()
-    } else {
-      getScript('https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js').then(runTwikoo)
-    }
-  }
-
   const generateHtml = array => {
     let result = ''
 
@@ -217,7 +184,7 @@ document.getElementById('loading-box').addEventListener('click',()=> {preloader.
           const name = 'data-lazy-src'
           result += `<a href='${array[i].url}' class='thumbnail'><img ${name}='${array[i].avatar}' alt='${array[i].nick}'></a>`
         }
-        
+
         result += `<div class='content'>
         <a class='comment' href='${array[i].url}' title='${array[i].content}'>${array[i].content}</a>
         <div class='name'><span>${array[i].nick} / </span><time datetime="${array[i].date}">${btf.diffDate(array[i].date, true)}</time></div>
@@ -233,9 +200,36 @@ document.getElementById('loading-box').addEventListener('click',()=> {preloader.
     window.pjax && window.pjax.refresh($dom)
   }
 
+  const getComment = () => {
+    const loadWaline = () => {
+      Waline.RecentComments({
+        serverURL: 'https://lean-cloud.yanguk.top/',
+        count: 5
+      }).then(({comments}) => {
+        const walineArray = comments.map(e => {
+          return {
+            'content': changeContent(e.comment),
+            'avatar': e.avatar,
+            'nick': e.nick,
+            'url': e.url + '#' + e.objectId,
+            'date': e.insertedAt,
+          }
+        })
+        saveToLocal.set('waline-newest-comments', JSON.stringify(walineArray), 10/(60*24))
+        generateHtml(walineArray)
+      }).catch(e => {
+        const $dom = document.querySelector('#card-newest-comments .aside-list')
+        $dom.innerHTML= "无法获取评论，请确认相关配置是否正确"
+      }) 
+    }
+
+    if (typeof Waline === 'function') loadWaline() 
+    else getScript('https://cdnjs.cloudflare.com/ajax/libs/waline/2.6.1/waline.min.js').then(loadWaline)
+  }
+
   const newestCommentInit = () => {
     if (document.querySelector('#card-newest-comments .aside-list')) {
-      const data = saveToLocal.get('twikoo-newest-comments')
+      const data = saveToLocal.get('waline-newest-comments')
       if (data) {
         generateHtml(JSON.parse(data))
       } else {
