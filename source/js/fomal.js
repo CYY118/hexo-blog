@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://yyimg.yanguk.top/imgcyy/24/10/Screenshot_20241011_191757_bc2041ba0fc3586633eafe4a62a2e073.jpg);
-    --darkmode-bg:url(https://yyimg.yanguk.top/imgcyy/24/10/Screenshot_20241011_191757_bc2041ba0fc3586633eafe4a62a2e073.jpg);
-    --mobileday-bg: url(https://yyimg.yanguk.top/imgcyy/24/10/Screenshot_20241011_191757_bc2041ba0fc3586633eafe4a62a2e073.jpg);
-    --mobilenight-bg: url(https://yyimg.yanguk.top/imgcyy/24/10/Screenshot_20241011_191757_bc2041ba0fc3586633eafe4a62a2e073.jpg);
+    --default-bg: url(https://yyimg.yanguk.top/imgcyy/24/10/mmexport1729330632569_f6993f804105fba611a051b8e94e56fb.jpeg);
+    --darkmode-bg:url(https://yyimg.yanguk.top/imgcyy/24/10/mmexport1729330249418_416fd462906928cbdc5ac2ab93cc56f8.jpeg);
+    --mobileday-bg: url(https://yyimg.yanguk.top/imgcyy/24/10/mmexport1729331220226_d55494c13035697ece0a132ed576e6e2.jpeg);
+    --mobilenight-bg: url(https://yyimg.yanguk.top/imgcyy/24/10/mmexport1729331295623_caf6bfb9bfa1ae387db32a567ea95801.jpeg);
   }`;
 }
 // 切换背景主函数
