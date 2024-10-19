@@ -3174,7 +3174,7 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://yyimg.yanguk.top/imgcyy/24/10/Screenshot_20241011_191757_bc2041ba0fc3586633eafe4a62a2e073.jpg);
+    --default-bg: url(../../../img/b_day.png);
     --darkmode-bg:url(https://yyimg.yanguk.top/imgcyy/24/10/Screenshot_20241011_191757_bc2041ba0fc3586633eafe4a62a2e073.jpg);
     --mobileday-bg: url(https://yyimg.yanguk.top/imgcyy/24/10/Screenshot_20241011_191757_bc2041ba0fc3586633eafe4a62a2e073.jpg);
     --mobilenight-bg: url(https://yyimg.yanguk.top/imgcyy/24/10/Screenshot_20241011_191757_bc2041ba0fc3586633eafe4a62a2e073.jpg);
