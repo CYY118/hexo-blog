@@ -345,7 +345,7 @@ valine:
 waline:
   serverURL: https://lean-cloud.yanguk.top/
   bg: https://yyimg.yanguk.top/imgcyy/24/10/Image_1724837177609_56f6ac087993b04bf0b16f4a906c7114.jpg
-  pageview: false
+  pageview: true
   emoji: //unpkg.com/@waline/emojis@1.2.0/bmoji
   option:
     # pageSize: 10
