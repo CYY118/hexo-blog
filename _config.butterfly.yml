@@ -346,12 +346,13 @@ waline:
   serverURL: https://lean-cloud.yanguk.top/
   bg: https://yyimg.yanguk.top/imgcyy/24/10/Image_1724837177609_56f6ac087993b04bf0b16f4a906c7114.jpg
   pageview: true
+  locale: zh-CN
   emoji: //unpkg.com/@waline/emojis@1.2.0/bmoji
   option:
     # pageSize: 10
     # requiredFields: mail
     # # anonymous: false
-    placeholder: 看完以上内容有什么想说的么  欢迎您的评论
+    # placeholder: 看完以上内容有什么想说的么  欢迎您的评论
     # # avatarCDN: https://sdn.geekzu.org/avatar/
     # #https://valinecdn.bili33.top/
     # langMode:
