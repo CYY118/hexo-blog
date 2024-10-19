@@ -346,12 +346,12 @@ waline:
   serverURL: https://lean-cloud.yanguk.top/
   bg: https://yyimg.yanguk.top/imgcyy/24/10/Image_1724837177609_56f6ac087993b04bf0b16f4a906c7114.jpg
   pageview: false
-  emoji: https://unpkg.com/@waline/emojis@1.2.0/bmoji
+  emoji: //unpkg.com/@waline/emojis@1.2.0/bmoji
   option:
     # pageSize: 10
     # requiredFields: mail
     # # anonymous: false
-    # placeholder: 社交登录可助您快速录入信息，可匿名评论，但您的评论必须经人工审核通过后才会显示，并可收到相关回复邮件通知，因此邮箱为必填项
+    placeholder: 看完以上内容有什么想说的么  欢迎您的评论
     # # avatarCDN: https://sdn.geekzu.org/avatar/
     # #https://valinecdn.bili33.top/
     # langMode:
