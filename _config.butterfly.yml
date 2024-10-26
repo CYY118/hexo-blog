@@ -971,7 +971,7 @@ CDN:
     # disqusjs: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/disqusjs/1.3.0/disqus.js
     # disqusjs_css: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/disqusjs/1.3.0/disqusjs.css
     twikoo: https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js
-    # waline_js: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/waline/1.5.4/Waline.min.js
+    waline_js: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/waline/1.5.4/Waline.min.js
     # waline_css:
     # sharejs: https://lib.baomitu.com/social-share.js/1.0.16/js/social-share.min.js
     # sharejs_css: https://lib.baomitu.com/social-share.js/1.0.16/css/share.min.css
