@@ -219,7 +219,7 @@ document.getElementById('loading-box').addEventListener('click',()=> {preloader.
   function insertCSS () {
     const link = document.createElement("link")
     link.rel = "stylesheet"
-    link.href = "https://cdnjs.cloudflare.com/ajax/libs/waline/2.6.1/waline.min.css"
+    link.href = "https://cdnjs.cloudflare.com/ajax/libs/waline/3.1.2/waline.min.css"
     document.head.appendChild(link)
   }
 
@@ -237,7 +237,7 @@ document.getElementById('loading-box').addEventListener('click',()=> {preloader.
   if (typeof Waline === 'function') initWaline()
   else {
     insertCSS()
-    getScript('https://cdnjs.cloudflare.com/ajax/libs/waline/2.6.1/waline.min.js').then(initWaline)
+    getScript('https://cdnjs.cloudflare.com/ajax/libs/waline/3.1.2/waline.min.js').then(initWaline)
   }
 }
 
@@ -314,7 +314,7 @@ if ('Waline' === 'Waline' || !true) {
     }
 
     if (typeof Waline === 'function') loadWaline() 
-    else getScript('https://cdnjs.cloudflare.com/ajax/libs/waline/2.6.1/waline.min.js').then(loadWaline)
+    else getScript('https://cdnjs.cloudflare.com/ajax/libs/waline/3.1.2/waline.min.js').then(loadWaline)
   }
 
   const newestCommentInit = () => {
