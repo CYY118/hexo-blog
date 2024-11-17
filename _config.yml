@@ -299,3 +299,10 @@ magnet:
     index: 0
   temple_html: '<div class="recent-post-item" style="width:100%;height: auto"><div id="catalog_magnet">${temple_html_item}</div></div>'
   plus_style: ""
+
+
+hexo_pro:
+  username: admin
+  password: 123
+  # avatar: https: image for your own avata
+  # secret: xxx // jwt secret key
