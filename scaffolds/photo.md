@@ -1,7 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-description: 测试
+description: {{ description }}
 abbrlink: 
 tags: 
   - 
