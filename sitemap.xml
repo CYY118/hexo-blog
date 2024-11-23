@@ -11,24 +11,6 @@
   </url>
   
   <url>
-    <loc>https://www.yanguk.top/life/movies/index.html</loc>
-    
-    <lastmod>2024-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/life/games/index.html</loc>
-    
-    <lastmod>2024-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yanguk.top/life/music/index.html</loc>
     
     <lastmod>2024-11-23</lastmod>
@@ -137,7 +119,25 @@
   </url>
   
   <url>
-    <loc>https://www.yanguk.top/posts/2b36786b.html</loc>
+    <loc>https://www.yanguk.top/life/games/index.html</loc>
+    
+    <lastmod>2024-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/life/movies/index.html</loc>
+    
+    <lastmod>2024-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/posts/3bf4a27.html</loc>
     
     <lastmod>2024-11-23</lastmod>
     
