@@ -1,5 +1,6 @@
 ---
 title: {{ title }}
+filename: {{ title }}
 date: {{ date }}
 description: 
 abbrlink: 
