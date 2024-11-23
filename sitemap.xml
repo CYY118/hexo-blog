@@ -2,54 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.yanguk.top/categories/index.html</loc>
-    
-    <lastmod>2024-11-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yanguk.top/tags/index.html</loc>
     
-    <lastmod>2024-11-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/box/animation/index.html</loc>
-    
-    <lastmod>2024-11-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/box/gallery/index.html</loc>
-    
-    <lastmod>2024-11-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/box/nav/index.html</loc>
-    
-    <lastmod>2024-11-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/life/games/index.html</loc>
-    
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +13,7 @@
   <url>
     <loc>https://www.yanguk.top/life/movies/index.html</loc>
     
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +22,7 @@
   <url>
     <loc>https://www.yanguk.top/life/music/index.html</loc>
     
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +31,7 @@
   <url>
     <loc>https://www.yanguk.top/personal/about/index.html</loc>
     
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +40,7 @@
   <url>
     <loc>https://www.yanguk.top/personal/bb/index.html</loc>
     
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +49,7 @@
   <url>
     <loc>https://www.yanguk.top/personal/love/index.html</loc>
     
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +58,7 @@
   <url>
     <loc>https://www.yanguk.top/site/census/index.html</loc>
     
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,7 +67,7 @@
   <url>
     <loc>https://www.yanguk.top/site/time/index.html</loc>
     
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +76,7 @@
   <url>
     <loc>https://www.yanguk.top/social/fcircle/index.html</loc>
     
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,7 +85,61 @@
   <url>
     <loc>https://www.yanguk.top/social/link/index.html</loc>
     
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/categories/index.html</loc>
+    
+    <lastmod>2024-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/box/animation/index.html</loc>
+    
+    <lastmod>2024-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/box/gallery/index.html</loc>
+    
+    <lastmod>2024-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/box/nav/index.html</loc>
+    
+    <lastmod>2024-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/life/games/index.html</loc>
+    
+    <lastmod>2024-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/posts/2b36786b.html</loc>
+    
+    <lastmod>2024-11-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -184,7 +193,7 @@
 
   <url>
     <loc>https://www.yanguk.top/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -192,28 +201,28 @@
   
   <url>
     <loc>https://www.yanguk.top/tags/Markdown/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yanguk.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yanguk.top/tags/Cyy/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yanguk.top/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -222,14 +231,14 @@
   
   <url>
     <loc>https://www.yanguk.top/categories/Java%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.yanguk.top/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2024-11-17</lastmod>
+    <lastmod>2024-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
