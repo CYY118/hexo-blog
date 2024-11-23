@@ -6,7 +6,7 @@
   <link href="https://www.yanguk.top/atom.xml" rel="self"/>
   
   <link href="https://www.yanguk.top/"/>
-  <updated>2024-11-23T02:59:36.784Z</updated>
+  <updated>2024-11-23T13:05:11.805Z</updated>
   <id>https://www.yanguk.top/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>title</title>
+    <link href="https://www.yanguk.top/posts/2b36786b.html"/>
+    <id>https://www.yanguk.top/posts/2b36786b.html</id>
+    <published>2024-11-23T13:05:07.813Z</published>
+    <updated>2024-11-23T13:05:11.805Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;测试&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>title</title>
