@@ -18,22 +18,22 @@
   
   <entry>
     <title>文章标题</title>
-    <link href="https://www.yanguk.top/posts/3bf4a27.html"/>
-    <id>https://www.yanguk.top/posts/3bf4a27.html</id>
+    <link href="https://www.yanguk.top/posts/pp.html"/>
+    <id>https://www.yanguk.top/posts/pp.html</id>
     <published>2024-11-23T13:05:07.813Z</published>
     <updated>2024-11-23T13:06:14.712Z</updated>
     
     <content type="html"><![CDATA[<p>测试</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;测试&lt;/p&gt;
-</summary>
-      
+    <summary type="html">测试描述</summary>
     
     
     
+    <category term="我的" scheme="https://www.yanguk.top/categories/%E6%88%91%E7%9A%84/"/>
+    
+    
+    <category term="pp" scheme="https://www.yanguk.top/tags/pp/"/>
     
   </entry>
   

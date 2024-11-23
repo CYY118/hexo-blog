@@ -5,12 +5,24 @@
     
     <entry>
       <title>文章标题</title>
-      <link href="/posts/3bf4a27.html"/>
-      <url>/posts/3bf4a27.html</url>
+      <link href="/posts/pp.html"/>
+      <url>/posts/pp.html</url>
       
         <content type="html"><![CDATA[<p>测试</p>]]></content>
       
       
+      <categories>
+          
+          <category> 我的 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> pp </tag>
+            
+        </tags>
       
     </entry>
     
