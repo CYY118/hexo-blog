@@ -3,7 +3,8 @@ title: {{ title }}
 date: {{ date }}
 description: 
 abbrlink: 
-test6: 
+swiper_index: 2
+sticky: 2
 tags: 
   - 
 categories: 
