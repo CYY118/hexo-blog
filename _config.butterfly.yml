@@ -608,7 +608,7 @@ click_heart:
   enable: false
   mobile: false
 
-# Mouse click effects: words (鼠標點擊效果: 文字)
+# Mousebrclick effects: words (鼠標點擊效果: 文字)
 ClickShowText:
   enable: false
   text:
@@ -706,7 +706,7 @@ aside:
       link: https://github.com/CYY118
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://www.yanguk.top" title="此路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">www.yanguk.top</font></a><br>--- 备用域名 ---<br><a href="https://blog.yanguk.top" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">blog.yanguk.top</font></a><br>--- LOOK ---<br>🍧<a href="https://www.yanguk.top" title="还是本站哦" class="anno_content"><font color="#5ea6e5">点击试试</font></a>🍧</b></center>
+    content: 哈喽  这是项目初改的样子<br><center><b>--- 主域名 ---<br><a href="https://www.yanguk.top" title="此路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">www.yanguk.top</font></a><br>--- 备用域名 ---<br><a href="https://blog.yanguk.top" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">blog.yanguk.top</font></a><br>--- LOOK ---<br>🍧<a href="https://www.yanguk.top" title="还是本站哦" class="anno_content"><font color="#5ea6e5">点击试试</font></a>🍧</b></center>
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
