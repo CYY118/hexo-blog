@@ -11,6 +11,24 @@
   </url>
   
   <url>
+    <loc>https://www.yanguk.top/personal/bb/index.html</loc>
+    
+    <lastmod>2025-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/personal/love/index.html</loc>
+    
+    <lastmod>2025-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yanguk.top/site/census/index.html</loc>
     
     <lastmod>2025-02-02</lastmod>
@@ -47,6 +65,15 @@
   </url>
   
   <url>
+    <loc>https://www.yanguk.top/categories/index.html</loc>
+    
+    <lastmod>2025-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yanguk.top/life/games/index.html</loc>
     
     <lastmod>2025-02-02</lastmod>
@@ -75,33 +102,6 @@
   
   <url>
     <loc>https://www.yanguk.top/personal/about/index.html</loc>
-    
-    <lastmod>2025-02-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/personal/bb/index.html</loc>
-    
-    <lastmod>2025-02-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/personal/love/index.html</loc>
-    
-    <lastmod>2025-02-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/categories/index.html</loc>
     
     <lastmod>2025-02-02</lastmod>
     
@@ -245,14 +245,14 @@
 
   
   <url>
-    <loc>https://www.yanguk.top/tags/Spring/</loc>
+    <loc>https://www.yanguk.top/tags/Java%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2025-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yanguk.top/tags/Java%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://www.yanguk.top/tags/Spring/</loc>
     <lastmod>2025-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
