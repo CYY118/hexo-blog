@@ -1,0 +1,18 @@
+<%- partial('_partial/header') %>
+<div class="container">
+    <div class="content">
+        <article class="post">
+            <header class="post-header">
+                <h1 class="post-title"><%= page.title %></h1>
+                <div class="post-meta">
+                    <time class="post-date" datetime="<%= page.date.format('YYYY-MM-DD HH:mm:ss') %>"><%= page.date.format('YYYY年MM月DD日') %></time>
+                </div>
+            </header>
+            <div class="post-content">
+                <%= page.content %>
+            </div>
+        </article>
+    </div>
+</div>
+<%- partial('_partial/footer') %>
+<script src="/js/music-script.js"></script>
