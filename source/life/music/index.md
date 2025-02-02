@@ -1,7 +1,7 @@
 ---
 title: 音乐时光
 date: 2022-08-10 18:54:31
-background: url(https://CYY118.github.io/jsdelivr/imgcyy/24/11/10月6日-封面_bdbfb9460980a60142c2de9767821414.jpg)
+background: url()
 aplayer: true
 comments: false
 aside: false
