@@ -1,34 +1,35 @@
-<%- partial('_partial/header') %>
+<%- partial('_partial/header', {
+    title: page.title,
+    description: page.description,
+    keywords: page.keywords,
+    is_post: false,
+    is_page: true,
+    is_archive: false,
+    is_category: false,
+    is_tag: false,
+    is_home: false,
+    is_math: false,
+    is_mermaid: false,
+    is_loading: false,
+    page: page,
+    config: theme,
+    root: config.root,
+    lang: page.lang || config.lang
+}) %>
 
-<div class="post-content" id="post-content">
-    <h1 class="post-title" itemprop="name headline"><%= page.title %></h1>
+<main class="main" role="main">
+    <article class="post-block page">
+        <header class="post-header">
+            <h1 class="post-title"><%= page.title %></h1>
+        </header>
+        <div class="post-content markdown-body">
+            <%= page.content %>
+        </div>
+    </article>
+</main>
 
-    <!-- 引入APlayer播放器CSS和JavaScript -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
-
-    <!-- 初始化音乐播放器 -->
-    <div id="aplayer"></div>
-    <script>
-        const ap = new APlayer({
-            container: document.getElementById('aplayer'),
-            audio: [
-                {
-                    name: '歌曲名1',
-                    artist: '歌手1',
-                    url: '歌曲链接1',
-                    cover: '封面图片链接1'
-                },
-                {
-                    name: '歌曲名2',
-                    artist: '歌手2',
-                    url: '歌曲链接2',
-                    cover: '封面图片链接2'
-                }
-                // 可以继续添加更多歌曲
-            ]
-        });
-    </script>
-</div>
-
-<%- partial('_partial/footer') %>
+<%- partial('_partial/footer', {
+    config: theme,
+    root: config.root,
+    lang: page.lang || config.lang
+}) %>
