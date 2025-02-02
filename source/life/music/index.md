@@ -11,7 +11,7 @@ aside: false
 在这里，你可以尽情享受音乐带来的美好时光。
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 
-src="https://music.163.com/outchain/player?type=2&id=你的歌单ID&auto=1&height=66"></iframe>
+src="https://music.163.com/outchain/player?type=2&id=6880799903&auto=1&height=66"></iframe>
 
 ### 说明
 1. **歌单选择**：这个播放器默认展示的是我精心挑选的[歌单名称](https://music.163.com/playlist?id=你的歌单ID)，你可以点击播放器上的图标切换歌曲，也可以前往网易云音乐平台查看完整歌单。
