@@ -11,6 +11,42 @@
   </url>
   
   <url>
+    <loc>https://www.yanguk.top/social/link/index.html</loc>
+    
+    <lastmod>2025-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/life/movies/index.html</loc>
+    
+    <lastmod>2025-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/life/games/index.html</loc>
+    
+    <lastmod>2025-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/life/music/index.html</loc>
+    
+    <lastmod>2025-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yanguk.top/personal/about/index.html</loc>
     
     <lastmod>2025-05-03</lastmod>
@@ -38,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.yanguk.top/site/time/index.html</loc>
+    <loc>https://www.yanguk.top/site/census/index.html</loc>
     
     <lastmod>2025-05-03</lastmod>
     
@@ -47,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.yanguk.top/site/census/index.html</loc>
+    <loc>https://www.yanguk.top/site/time/index.html</loc>
     
     <lastmod>2025-05-03</lastmod>
     
@@ -65,52 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.yanguk.top/social/link/index.html</loc>
-    
-    <lastmod>2025-05-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yanguk.top/categories/index.html</loc>
-    
-    <lastmod>2025-05-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/box/nav/index.html</loc>
-    
-    <lastmod>2025-05-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/life/games/index.html</loc>
-    
-    <lastmod>2025-05-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/life/movies/index.html</loc>
-    
-    <lastmod>2025-05-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yanguk.top/life/music/index.html</loc>
     
     <lastmod>2025-05-03</lastmod>
     
@@ -129,6 +120,15 @@
   
   <url>
     <loc>https://www.yanguk.top/box/gallery/index.html</loc>
+    
+    <lastmod>2025-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yanguk.top/box/nav/index.html</loc>
     
     <lastmod>2025-05-03</lastmod>
     
