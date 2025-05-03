@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.yanguk.top/posts/cs.html</loc>
+    <lastmod>2025-05-03</lastmod>
+  </url>
+  <url>
     <loc>https://www.yanguk.top/posts/shou.html</loc>
     <lastmod>2024-12-03</lastmod>
   </url>
@@ -31,9 +35,5 @@
   <url>
     <loc>https://www.yanguk.top/posts/8b34ad8c.html</loc>
     <lastmod>2024-10-11</lastmod>
-  </url>
-  <url>
-    <loc>https://www.yanguk.top/posts/cs.html</loc>
-    <lastmod>2024-10-01</lastmod>
   </url>
 </urlset> 
