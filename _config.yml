@@ -305,4 +305,4 @@ hexo_pro:
   username: admin
   password: 123
   # avatar: https: image for your own avata
-  # secret: xxx // jwt secret key
+  secret: 8ad10231ea59fd4e1917088f325965f0e5c0a71b1a864705f4aa490a3519b599 # jwt secret key
